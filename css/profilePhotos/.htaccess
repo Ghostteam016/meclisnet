@@ -1,0 +1,2 @@
+AuthName "rescricted"
+AuthUserFile "/home/meclisne/.htpasswds/public_html/dosyalar/profilePhotos/passwd"

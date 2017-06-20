@@ -1,0 +1,39 @@
+<div class="form-group">
+<select id="il" name="il">
+  <option value="">--</option>
+  <?php
+                        include "connect.php";
+                    $Iilsecim = @mysql_query("select * from bolgeler");
+                                $il = "null";
+                            while ($ilsecim = @mysql_fetch_array($Iilsecim)) {
+                                if($il != $ilsecim["il"]) {
+                                ?> <option value="<?php echo $ilsecim["il"]; ?>"><?php echo $ilsecim["il"]; ?></option>
+                                <?php }
+                        $il = $ilsecim["il"];
+                            } ?>
+</select>
+<select id="ilce" name="ilce">
+  <option value="">--</option>
+  <?php
+            $Iilsecim = @mysql_query("select * from bolgeler");
+            $ilce = "null";
+            $il = "null";
+            while ($ilsecim = @mysql_fetch_array($Iilsecim)) {
+                if($ilce != $ilsecim["ilce"] || $il != $ilsecim["il"]) {
+                ?><option value="<?php echo $ilsecim["BolgeID"]; ?>" class="<?php echo $ilsecim["il"]; ?>"><?php echo $ilsecim["ilce"]."/".$ilsecim["il"]; ?></option><?php
+                $il = $ilsecim["il"];
+                $ilce = $ilsecim["ilce"];
+            }   }
+            ?>
+</select
+
+
+<select name="yetkili" id="yetkili" data-placeholder="Göndermek istediğiniz yetkili/yetkililer"  class="js-example-basic-single" tabindex="8">
+            <option value=""></option>
+            <?php
+            $kullanıcıBulQ = @mysql_query("select * from users");
+            while ($kullanıcıBul = @mysql_fetch_array($kullanıcıBulQ)) {
+                ?><option value="<?php echo $kullanıcıBul["Id"]; ?>" class="<?php echo $kullanıcıBul["kurum"]; ?>"><?php echo $kullanıcıBul["Ad"]." ".$kullanıcıBul["Soyad"]; ?></option><?php
+            }
+            ?>
+          </select>

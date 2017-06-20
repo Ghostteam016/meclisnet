@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* Bootstrap custom css */
+body{
+	
+	background:#EFEFEF;
+	}
+	.column{
+		background-color:#FFF;
+		
+		
+		
+		}
+		.orta
+		{
+			height:500px;
+			
+			
+			}
+			.ortapanel
+			{
+			height:500px;
+			}
+	.ortala
+	{
+		margin-left:200px;
+		}
+			.slider
+			{
+				height: 300px;
+			}
+	
+

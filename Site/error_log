@@ -1,0 +1,1199 @@
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:09:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:13 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:13 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:13 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:13 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:13 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:13 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:15 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:15 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:15 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:58 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:58 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:58 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:10:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:10:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:03 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:03 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:08 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:08 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:08 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 108
+[27-Jan-2016 23:11:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:18 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:11:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:11:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:11:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:12:22 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:12:22 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:12:22 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:12:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:12:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:12:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 21:12:54 UTC] PHP Notice:  Undefined index: il in /home/meclisne/public_html/Site/fdilekce.php on line 2
+[27-Jan-2016 21:12:54 UTC] PHP Notice:  Undefined index: ilce in /home/meclisne/public_html/Site/fdilekce.php on line 2
+[27-Jan-2016 21:12:54 UTC] PHP Notice:  Undefined index: kurum in /home/meclisne/public_html/Site/fdilekce.php on line 2
+[27-Jan-2016 23:14:12 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:12 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:12 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:12 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:14:12 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:14:12 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:14:15 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:15 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:15 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:14:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:14:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:46 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:46 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:46 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:14:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:15:17 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:15:17 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:15:17 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:15:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:15:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:15:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 117
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 117
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 117
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 117
+[27-Jan-2016 23:15:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 117
+[27-Jan-2016 23:16:19 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:16:19 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:16:19 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:16:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:16:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:16:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:52 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:52 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:52 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:17:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:28 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:19:28 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:19:28 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:19:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:19:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:15 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:15 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:15 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:16 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:16 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:16 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:54 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:54 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:54 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:55 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:55 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:55 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:20:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:20:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:21:34 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:21:34 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:21:34 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:21:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:21:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:21:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:21:35 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:21:35 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:21:35 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:21:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:21:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:21:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:24:45 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:24:45 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:24:45 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:24:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:24:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:24:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:24:47 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:24:47 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:24:47 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:24:47 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:24:47 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:24:47 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:26:22 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:26:22 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:26:22 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:26:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:26:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:26:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:26:24 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:26:24 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:26:24 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:26:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:26:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:26:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:27:43 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:27:43 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:27:43 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:27:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:27:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:27:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:27:46 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:27:46 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:27:46 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:27:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:27:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:27:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:30:11 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:30:11 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:30:11 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:30:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:30:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:30:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:30:14 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:30:14 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:30:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:30:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:30:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:30:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:33:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:33:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:33:18 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:33:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:33:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:33:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:33:20 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:33:20 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:33:20 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:33:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:33:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:33:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:47:48 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:47:48 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:47:48 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:47:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:47:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:47:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:49:10 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:49:10 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:49:10 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:49:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:49:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:49:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:49:12 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:49:12 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:49:12 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:49:12 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:49:12 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:49:12 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:52:38 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:52:38 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:52:38 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:52:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:52:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:52:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:55:07 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:55:07 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:55:07 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:55:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:55:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:55:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:56:43 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:56:43 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:56:43 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:56:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:56:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:56:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:58:14 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:58:14 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:58:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:58:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:58:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:58:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:58:21 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:58:21 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:58:21 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:58:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:58:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:58:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:59:38 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:59:38 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:59:38 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[27-Jan-2016 23:59:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:59:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[27-Jan-2016 23:59:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:00:39 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:00:39 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:00:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:00:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:00:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:00:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:01:29 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:01:29 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:01:29 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:01:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:01:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:01:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:01:45 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:01:45 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:01:45 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:01:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:01:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:01:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:02:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:18 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:18 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:02:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:02:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:02:53 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:53 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:53 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:57 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:57 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:57 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:02:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:02:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:02:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 00:04:16 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:04:16 Europe/Istanbul] PHP Warning:  include(ipTracker.php): failed to open stream: No such file or directory in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:04:16 Europe/Istanbul] PHP Warning:  include(): Failed opening 'ipTracker.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/meclisne/public_html/Site/connect.php on line 14
+[28-Jan-2016 00:04:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:04:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:04:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:05:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:05:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:05:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:06:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:06:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:06:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:07:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:07:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:07:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:09:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:09:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:09:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:12:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:12:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:12:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:15:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:16:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:16:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:16:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:22:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:22:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:22:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:25:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:25:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:25:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:28:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:28:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:28:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:13:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:13:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:13:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:13:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:13:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:17:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:17:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:17:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:17:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:17:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:18:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:18:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:18:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:18:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:18:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:27:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:28:51 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:28:51 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:28:51 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:28:51 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:28:51 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:32:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:32:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:32:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:32:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:32:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 01:35:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:08:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:08:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:08:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:08:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:08:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:12:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:12:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:12:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:13:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:13:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:13:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 00:20:51 UTC] PHP Notice:  Undefined index: goster in /home/meclisne/public_html/Site/connect.php on line 7
+[28-Jan-2016 00:20:51 UTC] PHP Notice:  Undefined index: goster in /home/meclisne/public_html/Site/connect.php on line 7
+[28-Jan-2016 00:20:51 UTC] PHP Notice:  Undefined index: goster in /home/meclisne/public_html/Site/connect.php on line 7
+[28-Jan-2016 02:21:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:21:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:26:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:26:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:26:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:26:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:26:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:36:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:36:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:36:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:36:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:36:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:37:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:46:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:46:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:46:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:46:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:46:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 115
+[28-Jan-2016 02:48:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:48:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:48:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:48:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:48:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:49:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:51:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:51:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:51:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:51:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:51:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:53:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:54:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:54:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:54:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:54:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:54:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:56:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:56:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:56:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:56:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 02:56:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:00:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:00:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:00:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:00:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:00:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:02:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:02:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:02:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:02:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:02:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:05:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:05:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:05:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:05:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:05:07 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:06:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:06:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:06:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:06:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:06:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:25 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:25 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:25 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:25 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:25 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:07:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:12:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:12:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:12:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:12:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:12:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:14:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:14:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:14:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:14:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:14:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:16:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:16:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:16:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:16:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:16:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:22:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:17 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 03:23:42 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:15:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:15:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:15:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:15:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:15:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:16:31 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:16:31 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:16:31 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:16:31 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:16:31 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:18:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:18:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:18:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:18:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:18:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:26:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:31:09 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:31:09 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:31:09 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:31:09 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:31:09 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:32:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:32:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:32:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:32:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:32:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:33:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:33:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:33:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:33:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:33:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:35:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:35:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:35:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:35:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:35:33 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:37:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:37:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:37:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:37:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:37:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:41:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:41:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:41:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:41:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:41:18 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:56:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:56:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:56:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:56:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:56:58 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:57:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:57:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:57:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:57:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 08:57:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:00:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:00:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:00:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:00:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:00:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:01:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:01:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:01:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:01:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:01:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:03:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:03:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:03:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:03:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:03:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:05:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:05:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:05:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:05:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:05:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:06 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:06 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:06 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:06 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:06 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:07:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:11:40 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:14:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:15:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:15:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:15:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:15:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:15:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:26:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:26:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:26:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:26:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:26:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:27:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:27:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:27:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:27:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:27:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:47:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:47:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:47:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:47:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:47:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:48:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:48:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:48:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:48:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:48:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:49:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:49:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:49:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:49:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:49:11 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:50:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:50:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:50:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:50:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:50:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:51:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:54:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:54:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:54:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:54:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:54:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:55:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:55:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:55:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:55:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:55:21 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:56:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:56:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:56:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:56:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:56:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:57:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:58:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:58:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:58:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:58:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:58:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 09:59:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:24 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:00:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:01:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:01:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:01:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:01:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:01:10 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:15 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:03:43 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:09:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:09:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:09:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:09:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:09:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:12:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:12:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:12:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:12:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:12:28 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:14:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:14:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:14:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:14:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:14:55 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:15:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:15:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:15:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:15:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:15:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:17:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:17:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:17:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:17:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:17:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:21:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:21:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:21:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:21:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:21:27 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:24:32 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:25:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:25:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:25:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:25:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:25:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:26:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:26:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:26:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:26:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:26:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:29:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:29:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:29:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:29:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:29:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:16 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:30:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:33:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:34:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:34:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:34:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:34:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:34:48 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:36:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:36:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:36:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:36:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:36:54 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:39:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:39:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:39:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:39:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:39:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:40:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 10:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:20:41 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:20 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:22:46 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:28:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:28:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:28:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:28:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:28:03 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:31:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:31:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:31:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:31:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:31:56 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:39:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:39:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:39:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:39:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:39:44 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:40:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:40:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:40:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:40:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:40:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:29 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:41:35 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:42:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:42:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:42:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:42:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:42:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:01 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:43:30 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:08 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 11:45:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:53:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:53:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:53:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:53:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:53:05 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:56:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:56:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:56:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:56:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 13:56:39 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:43:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:43:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:43:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:43:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:43:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:14 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[28-Jan-2016 15:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 14:12:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 14:12:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 14:12:26 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:38 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:20:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:23:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:23:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:23:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:23:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:23:59 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:35:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:35:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:35:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:35:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 15:35:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:02 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:15:50 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:00 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:17:45 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:46:19 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:49:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:49:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:49:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:49:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:49:57 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:51:52 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:54:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:54:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:54:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:54:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[29-Jan-2016 17:54:23 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:38:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:38:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:38:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:38:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:38:37 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:39:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:39:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:39:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:39:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:39:53 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:22 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:34 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[30-Jan-2016 11:40:36 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[31-Jan-2016 22:40:00 UTC] PHP Notice:  Undefined index: goster in /home/meclisne/public_html/Site/connect.php on line 7
+[01-Feb-2016 00:40:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[01-Feb-2016 00:40:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116
+[01-Feb-2016 00:40:04 Europe/Istanbul] PHP Notice:  Undefined index: date in /home/meclisne/public_html/Site/index.php on line 116

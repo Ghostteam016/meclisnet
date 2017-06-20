@@ -1,0 +1,49 @@
+
+
+
+/*------------------------------------------------------------------------------------*/
+/*----------------------------------- CUSTOM PAGES -----------------------------------*/
+
+/****  Messages  ****/
+#main-content.page-mailbox { padding: 0 15px 0 0;}
+.page-mailbox .col-md-4{ padding-right:  0;}
+.page-mailbox .col-lg-8{ padding-left:  0;padding-right:  0}
+.page-mailbox .panel{ margin-bottom:  0}
+#messages-list, #message-detail {overflow: hidden}
+.message-action-btn i {font-size: 20px;line-height: 40px;}
+.icon-rounded { text-align: center; border-radius: 50%; width: 40px;height:40px;border:1px solid #BDBDBD;color:#bdbdbd;display: inline-block}
+.icon-rounded:hover {border:1px solid #121212;color:#121212;cursor: pointer}
+.icon-rounded.heart:hover{border:1px solid #D9534F;color:#D9534F}
+.icon-rounded.heart-red  {border:1px solid #D9534F;color:#D9534F}
+.icon-rounded.gear:hover{border:1px solid #3F97C9;color:#3F97C9}
+.panel-body.messages { padding: 0;}
+.border-bottom {border-bottom: 1px solid #EFEFEF !important;}
+#main-content .messages a.btn {color:#B3B3B3;}
+.message-item{border:none;border-bottom: 1px solid #ECEBEB !important; margin:0;padding:10px 15px;display: block}
+.message-item h5{margin-top:0;}
+.message-item p{margin-bottom:0;height: 20px;overflow: hidden;}
+.message-item .message-checkbox{height:30px;}
+.message-active {color:#fff;background-color:#00A2D9 }
+a.message-item.message-active:hover{color:#fff;background-color:#008fc0;}
+a.message-item:hover{text-decoration:none;background-color:#eaeaea;}
+.messages .message-item img{border-radius: 3px;}
+.message-item-right{padding-left:33px;}
+.withScroll {height: auto;overflow: auto;overflow:hidden;}
+.messages .mCustomScrollBox {overflow: hidden !important;}
+.message-result .message-item{padding-left:0;}
+.message-result .message-item-right{padding-left:0;}
+.message-title{margin-top:0;}
+.message-body{padding:0 20px 20px 20px;}
+.message-attache .media {float:left; padding-right:30px;margin-top: 0;padding-bottom:30px;}
+.message-attache {border-top: 1px solid #ECEBEB !important;padding-top:10px;}
+.message-between {height: 8px;background-color: #E7E7E7;}
+.footer-message { padding-top:20px;}
+.send-message .form-control {height:34px;}
+@media (min-width: 992px){
+  .email-go-back {display: none;}
+}
+@media (max-width: 991px){
+  .email-hidden-sm {display: none;}
+  .email-go-back {display: inline-block;}
+}
+
